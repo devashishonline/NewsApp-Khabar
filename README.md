@@ -14,19 +14,16 @@
 Here are some screenshots of the app:
 
 ### Onboarding Screens
-![Onboarding]([path/to/onboarding-screens.jpg](https://github.com/devashishonline/NewsApp-Khabar/blob/master/app/Assets/262676788-0ba957e5-8b70-42d6-ab09-2cf38ba3936e.png))
-![Onboarding]([path/to/onboarding-screens.jpg](https://github.com/devashishonline/NewsApp-Khabar/blob/master/app/Assets/262678744-90385dcf-a852-47c2-be23-aa243adb12e8.png))
-
+![Onboarding](https://github.com/devashishonline/NewsApp-Khabar/blob/master/app/Assets/262676788-0ba957e5-8b70-42d6-ab09-2cf38ba3936e.png)
+![Onboarding](https://github.com/devashishonline/NewsApp-Khabar/blob/master/app/Assets/262678744-90385dcf-a852-47c2-be23-aa243adb12e8.png)
 
 ### Home Screen, Search, and Article Details
-![Home and Search]([path/to/home-search-screens.jpg](https://github.com/devashishonline/NewsApp-Khabar/blob/master/app/Assets/262676811-6dda119b-1b3f-4637-91a4-314b85eda214.png))
-![Home and Search]([path/to/home-search-screens.jpg](https://github.com/devashishonline/NewsApp-Khabar/blob/master/app/Assets/262678757-63e8be30-6de8-4060-9ce2-0fa5000c95b8.png))
-
+![Home and Search](https://github.com/devashishonline/NewsApp-Khabar/blob/master/app/Assets/262676811-6dda119b-1b3f-4637-91a4-314b85eda214.png)
+![Home and Search](https://github.com/devashishonline/NewsApp-Khabar/blob/master/app/Assets/262678757-63e8be30-6de8-4060-9ce2-0fa5000c95b8.png)
 
 ### Bookmark Section
-![Bookmark]([path/to/bookmark-screens.jpg](https://github.com/devashishonline/NewsApp-Khabar/blob/master/app/Assets/262676840-6e7186fa-9c05-4705-b568-8326cc99c17f.jpg))
-![Bookmark]([path/to/bookmark-screens.jpg](https://github.com/devashishonline/NewsApp-Khabar/blob/master/app/Assets/262678767-0382d92a-e965-4bb3-a1f4-d82c0da87f94.png))
-
+![Bookmark](https://github.com/devashishonline/NewsApp-Khabar/blob/master/app/Assets/262676840-6e7186fa-9c05-4705-b568-8326cc99c17f.jpg)
+![Bookmark](https://github.com/devashishonline/NewsApp-Khabar/blob/master/app/Assets/262678767-0382d92a-e965-4bb3-a1f4-d82c0da87f94.png)
 
 ## Tech Stack
 - **Kotlin**: The programming language used for building the app.
@@ -35,7 +32,7 @@ Here are some screenshots of the app:
 - **Coroutines**: To manage background threads and asynchronous code.
 - **Room Database**: For saving and retrieving bookmarked articles.
 - **Paging 3**: Used for efficient and smooth pagination, allowing the app to load data incrementally as users scroll through articles.
-- **Dagger Hilt**: A dependency injection library used to manage and inject dependencies across the app, improving modularity and scalability. 
+- **Dagger Hilt**: A dependency injection library used to manage and inject dependencies across the app, improving modularity and scalability.
 
 ## Architecture
 The app follows the **MVVM architecture** pattern:
